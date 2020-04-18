@@ -14,3 +14,4 @@ this doesn't work on Macs as it should, so am finding new approaches
 
 - [Playback MP3 iOS](https://howlerjs.com)
 - [Generate Tones](https://tonejs.github.io)
+- [Install ToneJS](https://github.com/Tonejs/Tone.js/wiki/Installation)
